@@ -6,8 +6,8 @@ public class Unit {
 	// --- Class Variables
 	// ---------------------------
 	
-	String unitName;
-	boolean unitPC;
+	private String unitName;
+	private boolean unitPC;
 	
 	// ---------------------------
 	// --- Constructors
